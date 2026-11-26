@@ -11,7 +11,7 @@ This repository is the project homepage for the application, and also documents 
   - iTunes Search API — 30-second preview clips.
   - Audius — full-length tracks from the Audius open catalog.
   - Internet Archive — public-domain and openly licensed audio recordings.
-  - **Jamendo** — full-length tracks from the Jamendo catalog (planned integration, see below).
+  - **Jamendo** — full-length tracks from the Jamendo catalog. The Jamendo source is wired into the same search and playback pipeline described below.
   - A custom endpoint option, for a user-supplied search API.
 - **Local library.** Import single files or an entire folder (recursive scan), or drag audio files into the window. Supports mp3 / flac / wav / m4a / aac / ogg / opus / wma / aiff / ape.
 - **Player features.** Custom playback bar, seek, volume, next/previous, shuffle, repeat, keyboard shortcuts (space to play/pause, arrow keys to seek and change volume, Ctrl+F to focus search).
